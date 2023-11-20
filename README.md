@@ -10,7 +10,7 @@ Sua API deve permitir:
 
 - O usuário se cadastrar
 - O usuário fazer o login
-- O usuário editar o perfil <- 90% / 80%
+- O usuário editar o perfil
 - O usuário obter o roteiro de acordo com os seus gostos e lugar que pretende visitar
 - O usuário salvar o roteiro que julgar interessante
 - O usuário filtra o roteiro por cidade
